@@ -2,20 +2,20 @@
 #include <stdio.h>
 int main () {
 		    
-		int a,b;
-			printf("Enter value for a & b respectively: ");
-				scanf("%d %d", &a,&b);
+int a,b;
+printf("Enter value for a & b respectively: ");
+scanf("%d %d", &a,&b);
 
-					if(a==b){
-								    printf("Both a & b are Equal");
-								    	}
-						else if(a<b){
-									    printf("B is Greater");
-									    	}
-							else
-									{
-												    printf("A is Greater");
+if(a==b){
+printf("Both a & b are Equal");
+}
+else if(a<b){
+printf("B is Greater");
+}
+else
+{
+printf("A is Greater");
 												    	}
-								    return 0;
+return 0;
 }
 
