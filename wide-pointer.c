@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-viod main() {
+void main() {
 
 int *pointer
 	printf("%d", *pointer);
