@@ -1,4 +1,7 @@
-// write a C program with the Help of structure which stores the information about a book such as Book_name, author, no_of_pages, price etc. 
+/*C Code to implement structure
+*/
+/* write a C program with the Help of structure which stores the information about a book such as Book_name, author, no_of_pages, price etc. 
+*/
 
 #include <stdio.h>
 struct book {
